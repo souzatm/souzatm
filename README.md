@@ -5,7 +5,7 @@
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=souzatm&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu utilizo no dia a dia 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img allign="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img allign="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img allign="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
